@@ -15,7 +15,7 @@ void hello()
     {
         cout << "What is your name?"<< endl;
         getline(cin, userName);
-        cout << "HELLO " << userName << "!\n\n";
+        cout << "HELLOOO " << userName << "!!!\n\n";
     }
 
 int main()
@@ -36,7 +36,7 @@ int main()
         cout << banana << " bananas" << endl;
         cout << watermeton << " watermelon" << endl;
         cout << blueberry << " blueberry" << endl;
-        cout << "Your remaining balance is $" << wallet <<  ".\n\n";
+        cout << "Your balance is $" << wallet <<  ".\n\n";
         cout << "Enter your choice: \n\n";
         cin >> userchoice;
 

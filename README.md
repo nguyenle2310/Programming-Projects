@@ -13,7 +13,17 @@ The program will perform following main steps:
 
 ## Installation
 
-Use the standard library header [iostream](http://www.cplusplus.com/reference/iostream/) to set up GROPI.
+Install as you would normally install the Visual Studio Code.  Visit
+   https://code.visualstudio.com/download for download information.
+   
+ Here I use GCC compiler for C++ on MacOS (I will need to install Homebrew in Terminal) following this youtube video 
+    https://www.youtube.com/watch?v=0z-fCNNqfEg
+
+Next I create a new workspace for my programming project in Visual Studio Code including files: GROPI.cpp and README
+
+In this project, I use the standard library header [iostream](http://www.cplusplus.com/reference/iostream/) that provides input and output functionality using streams.
+
+This header file contains definitions to objects like cin, cout, cerr etc.
 
 ```bash
 #include <iostream> // import libraries

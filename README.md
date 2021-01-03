@@ -13,11 +13,11 @@ The program will perform following main steps:
 
 ## Installation
 
-Install as you would normally install the Visual Studio Code.  Visit
-   https://code.visualstudio.com/download for download information.
+Install as you would normally install the Visual Studio Code November 2020 (version 1.52) for Mac OS.
+Visit https://code.visualstudio.com/download for download information.
    
- Here I use GCC compiler for C++ on MacOS (I will need to install Homebrew in Terminal) following this youtube video 
-    https://www.youtube.com/watch?v=0z-fCNNqfEg
+Here I use GCC compiler for C++ on MacOS (I will need to install Homebrew) following this youtube video 
+https://www.youtube.com/watch?v=0z-fCNNqfEg from Dr Hayes.
 
 Next I create a new workspace for my programming project in Visual Studio Code including files: GROPI.cpp and README
 
